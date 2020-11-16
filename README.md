@@ -15,8 +15,9 @@ Recently I have been learning how to create GUIs in visual studio.
 A game that uses all of what we've learned in Introduction to programming so far. 
 
 ## Study Application with Quiz
-![StudyApplication Start](/StudyApplication Start.PNG "StudyApplication Start")
-![StudyApplication Wrong.PNG](/StudyApplication Wrong.PNG.PNG "StudyApplication Wrong.PNG")
+![StudyApplication Start](/StudyApplication%20Start.PNG "StudyApplication Start")
+![StudyApplication Wrong.PNG](/StudyApplication%20Wrong.PNG.PNG "StudyApplication Wrong.PNG")
+
 An application that uses external memory storage to initialize variables.
 
 ## Shift Cipher
@@ -31,7 +32,8 @@ A very small game about raising the best insect
 ![Chairworld](/Chairworld.PNG "Chairworld")
 ![CoffeeShop](/CoffeeShop.PNG "CoffeeShop")
 ![CoffeeShopEnd](/CoffeeShopEnd.PNG "CoffeeShopEnd")
-2 small application about buying chairs from chair world and coffe from a coffe shop
+
+2 small applications about buying chairs from chair world and coffe from a coffe shop
 
 ## Trivia Game
 ![Trivia.PNG](/Trivia.PNG "Trivia.PNG")
