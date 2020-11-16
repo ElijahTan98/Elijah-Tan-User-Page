@@ -10,7 +10,7 @@ Recently I have been learning how to create GUIs in visual studio.
 
 # List of projects
 ## Adventure Game
-![Adventure Game](Elijah-Tan-User-Page/AdventureGameStart.PNG?raw=true "Adventure Game")
+![Adventure Game](main/AdventureGameStart.PNG?raw=true "Adventure Game")
 
 A game that uses all of what we've learned in Introduction to programming so far. 
 
