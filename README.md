@@ -1,5 +1,6 @@
 # Elijah Tan - User Page
 Hi, I'm Elijah, animation student at Columbia College Chicago
+
 ![SmallPfp](/SmallPfp.png "SmallPfp)
 
 ### Coding Experience
@@ -27,6 +28,7 @@ An application that can encode a message using a cipher
 
 ## Adopt-An-Insect
 ![Insect](/Insect.PNG "Insect")
+
 A very small game about raising the best insect
 
 ## Store Application
@@ -38,4 +40,5 @@ A very small game about raising the best insect
 
 ## Trivia Game
 ![Trivia.PNG](/Trivia.PNG "Trivia.PNG")
+
 A small trivia game.
