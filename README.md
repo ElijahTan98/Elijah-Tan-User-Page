@@ -1,5 +1,6 @@
-# Elijah-Tan-User-Page
-Info about me
+# Elijah Tan - User Page
+Hi, I'm Elijah, animation student at Columbia College Chicago
+![SmallPfp](/SmallPfp.png "SmallPfp)
 
 ### Coding Experience
 I started coding in high school for my IB computer science course. We spent a long time on logic and pseudo code but eventually made projects using Java.
@@ -21,7 +22,7 @@ A game that uses all of what we've learned in Introduction to programming so far
 An application that uses external memory storage to initialize variables.
 
 ## Shift Cipher
-
+![Cypher](/Cypher.PNG "Cypher")
 An application that can encode a message using a cipher
 
 ## Adopt-An-Insect
