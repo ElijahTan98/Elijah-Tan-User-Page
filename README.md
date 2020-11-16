@@ -8,7 +8,7 @@ Currently, I've used C# and visual studio for over 10 weeks to create console ap
 
 Recently I have been learning how to create GUIs in visual studio.
 
-# List of projects:
+# List of projects
 ## Adventure Game
 
 A game that uses all of what we've learned in Introduction to programming so far. 
