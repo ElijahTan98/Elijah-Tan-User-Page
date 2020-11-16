@@ -16,7 +16,7 @@ A game that uses all of what we've learned in Introduction to programming so far
 
 ## Study Application with Quiz
 ![StudyApplication Start](/StudyApplication%20Start.PNG "StudyApplication Start")
-![StudyApplication Wrong.PNG](/StudyApplication%20Wrong.PNG.PNG "StudyApplication Wrong.PNG")
+![StudyApplication Wrong.PNG](/StudyApplication%20Wrong.PNG "StudyApplication Wrong.PNG")
 
 An application that uses external memory storage to initialize variables.
 
