@@ -1,7 +1,7 @@
 # Elijah Tan - User Page
 Hi, I'm Elijah, animation student at Columbia College Chicago
 
-![SmallPfp](/SmallPfp.png "SmallPfp)
+![SmallPfp](/SmallPfp.png "SmallPfp")
 
 ### Coding Experience
 I started coding in high school for my IB computer science course. We spent a long time on logic and pseudo code but eventually made projects using Java.
