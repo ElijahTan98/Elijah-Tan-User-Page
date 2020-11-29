@@ -24,12 +24,19 @@ An application that uses external memory storage to initialize variables.
 
 ## Shift Cipher
 ![Cypher](/Cypher.PNG "Cypher")
+
 An application that can encode a message using a cipher
 
-## Adopt-An-Insect
+## Adopt-An-Insect [UPDATED]
 ![Insect](/Insect.PNG "Insect")
 
 A very small game about raising the best insect
+
+New Updated GUI version of the aplication
+
+![AdoptAnIsenct](/AdoptAnIsenct.PNG "AdoptAnIsenct")
+
+![AdoptAnIsenct2](/AdoptAnIsenct2.PNG "AdoptAnIsenct2")
 
 ## Store Application
 ![Chairworld](/Chairworld.PNG "Chairworld")
