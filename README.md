@@ -22,10 +22,16 @@ A game that uses all of what we've learned in Introduction to programming so far
 
 An application that uses external memory storage to initialize variables.
 
-## Shift Cipher
+## Shift Cipher [Updated]
 ![Cypher](/Cypher.PNG "Cypher")
 
 An application that can encode a message using a cipher
+
+New Updated GUI version of the aplication
+
+![Cipher](/Cipher.PNG "Cipher")
+
+![Cipher2](/Cipher2.PNG "Cipher2")
 
 ## Adopt-An-Insect [UPDATED]
 ![Insect](/Insect.PNG "Insect")
